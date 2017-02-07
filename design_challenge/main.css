@@ -1,0 +1,139 @@
+.container {
+  padding-left: 10px;
+}
+
+nav {
+  height: 40px;
+  background-color: #D3D3D3;
+  width: 100%;
+  position: fixed;
+}
+
+.div-head {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 20px;
+	font-family: Arial;
+	float: left;
+}
+
+a {
+	text-decoration: none;
+	font-family: Arial;
+	font-size: 20px;
+}
+
+ul {
+	display: inline-block;
+	list-style: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+li {
+	display: inline-block;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.float-right {
+	float: right;
+	margin-right: 35px;
+	vertical-align: middle;
+}
+
+body {
+	margin: 0px;
+	padding: 0;
+}
+
+main {
+	padding-top: 90px;
+	padding-left: 90px;
+	font-size: 0;
+}
+
+input {
+	height: 35px;
+	width: 650px;
+	border: solid #D3D3D3 2px;
+	border-radius: 5%;
+	font-size: 20px;
+	font-family: Arial;
+	padding-left: 5px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.button {
+	float: right;
+	margin-right: 560px;
+	margin-top: -40px;
+	height: 35px;
+	width: 35px;
+	border: solid #D3D3D3 2px;
+	border-radius: 5%;
+	padding-left: 5px;
+	background: url("https://tf-curricula-prod.s3.amazonaws.com/curricula/5b3249003592fc371bac5c6254b50c9c/FEWD-001/v6/assets2/1.5.6_challenge_design_to_code/magnifying-glass.png") no-repeat;
+	background-size: cover;
+	vertical-align: top;
+}
+
+.previous {
+	display: inline-block;
+	margin-top: 40px;
+	height: 40px;
+	width: 90px;
+	border: solid #D3D3D3 2px;
+	border-radius: 5%;
+	font-size: 20px;
+	font-family: Arial;
+	text-align: center;
+}
+
+.page {
+	display: inline-block;
+	margin-top: 40px;
+	height: 40px;
+	width: 200px;
+	border: solid #D3D3D3 2px;
+	border-radius: 5%;
+	font-size: 20px;
+	font-family: Arial;
+	padding-left: 0;
+	text-align: center;
+}
+
+.next {
+	display: inline-block;
+	margin-top: 40px;
+	height: 40px;
+	width: 90px;
+	border: solid #D3D3D3 2px;
+	border-radius: 5%;
+	font-size: 20px;
+	font-family: Arial;
+	padding-left: 0;
+	text-align: center;
+}
+
+p {
+	font-family: Arial;
+	color: #D3D3D3;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.blue {
+	font-family: Arial;
+	color: blue;
+	font-size: 20px;
+}
+
+.listings {
+	padding-top: 50px;
+}
+
+
+
+
